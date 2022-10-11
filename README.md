@@ -4,4 +4,4 @@
 ## membuat paragraf
 kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
-![Gambar 1](screenshoot/ss1.jpeg)
+![ScreenShot](https://github.com/rismega/lab2_css_dasar.git/LAB2/lab2_css_dasar/screenshoot/ss1.jpg)
